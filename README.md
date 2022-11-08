@@ -81,7 +81,7 @@ Inspect the file permissions of each of the following files. You should have alr
       <img width="559" alt="2-a" src="https://user-images.githubusercontent.com/106919343/200635925-04a2d301-7401-460c-a7be-bda19c8ceffb.png">  
       To add admin to sudo group:    
       sudo usermod -aG sudo admin  
-
+      <img width="589" alt="2-a1" src="https://user-images.githubusercontent.com/106919343/200635969-2be04c86-2147-452e-92a8-94a2984bc6e9.png">  
 **Step 3: Create User Group and Collaborative Folder**  
 Now, you'll run the commands to fully set up a group on your system.  
 This requires you to create a group, add users to it, create a shared group folder, and set the group folder owners for this shared folder.  
