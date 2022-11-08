@@ -120,6 +120,7 @@ This requires you to create a group, add users to it, create a shared group fold
     To change ownership:  
     Answer:  
     sudo chown :engineers engineers  
+    <img width="660" alt="34-b" src="https://user-images.githubusercontent.com/106919343/200636252-bd5c8594-3303-4309-a48f-513746bf4f85.png">  
 
 **Step 4: Lynis Auditing**  
 The final step on your administrator's list involves running an audit against the system in order to harden it. You'll use the system and security auditing tool Lynis to do so.  
@@ -133,6 +134,7 @@ Answer: man lynis
 
 3. Command to run an audit:
 
-Answer: sudo lynis audit system
+Answer: sudo lynis audit system  
+<img width="638" alt="challenge4-1" src="https://user-images.githubusercontent.com/106919343/200636300-c052ba41-4505-4135-9496-56aaf7ec8968.png">  
 
 
