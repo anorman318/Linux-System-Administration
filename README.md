@@ -78,8 +78,8 @@ Inspect the file permissions of each of the following files. You should have alr
       To check if admin has sudo access:  
       groups admin   
       sudo -lU admin  
-
-      To add admin to sudo group:  
+      <img width="559" alt="2-a" src="https://user-images.githubusercontent.com/106919343/200635925-04a2d301-7401-460c-a7be-bda19c8ceffb.png">  
+      To add admin to sudo group:    
       sudo usermod -aG sudo admin  
 
 **Step 3: Create User Group and Collaborative Folder**  
