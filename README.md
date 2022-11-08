@@ -91,7 +91,8 @@ This requires you to create a group, add users to it, create a shared group fold
     Answer:  
     sudo addgroup engineers  
     To check group was added:  
-    tail /etc/group
+    tail /etc/group  
+    <img width="344" alt="31-a" src="https://user-images.githubusercontent.com/106919343/200636094-1e56682e-c94d-4ce4-93ae-956fa2c3c176.png">  
 
 2. Add users sam, joe, amy, and sara to the managed group.  
     b. Command to add users to engineers group (include all four users):  
