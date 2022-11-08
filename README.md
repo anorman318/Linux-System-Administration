@@ -35,7 +35,8 @@ Inspect the file permissions of each of the following files. You should have alr
 
     a. Command to inspect permissions:
 
-    answer: ls -l /etc/group
+    answer: ls -l /etc/group  
+    <img width="258" alt="3a" src="https://user-images.githubusercontent.com/106919343/200635134-674c51f5-b3db-410a-bbe6-f40704c21a0d.png">
 
     b. Command to set permissions (if needed):
 
