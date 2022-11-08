@@ -67,7 +67,7 @@ Inspect the file permissions of each of the following files. You should have alr
       sudo adduser amy  
       sudo adduser sara  
       sudo adduser admin  
-
+      <img width="356" alt="2-1a" src="https://user-images.githubusercontent.com/106919343/200635535-df864d50-c2fc-4c99-8584-10fd27dfdae3.png">
 
 2. Ensure that only the admin has general sudo access.
 
