@@ -16,15 +16,15 @@ Inspect the file permissions of each of the following files. You should have alr
 
     b. Command to set permissions (if needed):
 
-    answer: sudo chmod 600 /etc/shadow
-
+    answer: sudo chmod 600 /etc/shadow  
+    
 
 2. Permissions on /etc/gshadow should allow only root read and write access.
 
     a. Command to inspect permissions:
 
-    answer: ls -l /etc/gshadow
-
+    answer: ls -l /etc/gshadow  
+    <img width="262" alt="2ab" src="https://user-images.githubusercontent.com/106919343/200634447-8d21774e-db86-4ce3-b0de-844de0c58f1f.png">
 
     b. Command to set permissions (if needed):
 
