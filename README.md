@@ -108,6 +108,7 @@ This requires you to create a group, add users to it, create a shared group fold
     a. Command to create the shared folder:  
     Answer:  
     sudo mkdir /home/engineers  
+    <img width="354" alt="34-a" src="https://user-images.githubusercontent.com/106919343/200636207-4a39b137-0b9a-4db7-ae5c-a131f913cf45.png">  
 
 4. Change ownership on the new engineers’ shared folder to the engineers group.  
 
