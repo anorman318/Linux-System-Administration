@@ -11,7 +11,8 @@ Inspect the file permissions of each of the following files. You should have alr
 
     a. Command to inspect permissions:
 
-    answer: ls -l /etc/shadow
+    answer: ls -l /etc/shadow  
+    <img width="247" alt="1ab" src="https://user-images.githubusercontent.com/106919343/200633831-71c5daee-784f-4eb7-9b2c-92c775fe3e5e.png">
 
     b. Command to set permissions (if needed):
 
