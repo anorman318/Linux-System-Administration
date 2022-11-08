@@ -101,6 +101,7 @@ This requires you to create a group, add users to it, create a shared group fold
     Sudo usermod -aG engineers joe  
     Sudo usermod -aG engineers amy  
     Sudo usermod -aG engineers sara  
+    <img width="362" alt="32-a" src="https://user-images.githubusercontent.com/106919343/200636151-ead19bea-62fc-4d5f-bd57-44571079a340.png">  
 
 3. Create a shared folder for this group at /home/engineers.  
 
