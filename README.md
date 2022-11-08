@@ -46,8 +46,8 @@ Inspect the file permissions of each of the following files. You should have alr
 
     a. Command to inspect permissions:
 
-    answer: ls -l /etc/passwd
-
+    answer: ls -l /etc/passwd  
+    <img width="251" alt="4" src="https://user-images.githubusercontent.com/106919343/200634826-c667bf68-cdb4-4ad5-a9d7-176e4cf2758e.png">
 
     b. Command to set permissions (if needed):
 
